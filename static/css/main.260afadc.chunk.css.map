@@ -1,1 +1,0 @@
-{"version":3,"sources":["Todo.css"],"names":[],"mappings":"AAAA,WACE,WAAY,CACZ,cACF,CAEA,aACE,SAAU,CACV,cACF","file":"main.260afadc.chunk.css","sourcesContent":[".completed {\n  color: green;\n  font-size: 20px;\n}\n\n.uncompleted {\n  color: red;\n  font-size: 20px;\n}\n"]}
